@@ -2,14 +2,21 @@
 Coding practice to learn Python's basics.
 
 ## Code by Day:
-### Day 1:
-✨ Learning Basics ✨
+### Basics
+- Learning Basics 
+- Conditional Statements
+- Data Types
+- Loops and List Comprehensions
+
+### ✨ Day 1:
 - Gravitational Force
 - Discounted Price
-### Day 2:
-✨ Learning Basics ✨
+### ✨ Day 2:
 - Factorial
 - House Prices
+### ✨ Day 3:
+- Custom Engravings
+### ✨ Day 4:
 
 ## Exercises from:
 - [Educative](https://www.educative.io/learn/home)
