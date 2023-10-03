@@ -19,7 +19,7 @@ Coding practice to learn Python's basics.
 ### ✨ Day 4:
 
 ## Exercises from:
-- [Educative](https://www.educative.io/learn/home)
 - [Kaggle](https://www.kaggle.com/learn)
 - [LeetCode](https://leetcode.com)
 - [Python Coding](https://youtube.com/playlist?list=PLeLGx0BaYD6Zr_3ReRhyZHLoO35uEVmcJ&si=hq5QaU2K9G_FsDOC)
+- [Tiny Python Projects](https://tinypythonprojects.com/#/)
